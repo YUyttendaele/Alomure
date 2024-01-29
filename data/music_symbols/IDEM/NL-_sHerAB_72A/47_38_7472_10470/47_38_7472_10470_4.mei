@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-d54d2f5d-2923-491a-a92d-eb4956e8c522" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-b4f3ed65-ca82-42bb-b511-a6f126c7c2cb">
+		<fileDesc xml:id="m-924ab623-525a-4ce7-b42b-993a7621d184" />
+	</meiHead>
+	<music xml:id="m-2115fe87-6e7e-4e22-8fae-89f6d016583b">
+		<body xml:id="m-fbc2da0f-5599-46d5-a779-ed956038a0ae">
+			<mdiv xml:id="m-5c8d5b1e-382c-4748-99f8-a1067539006b">
+				<score xml:id="m-246a7164-f173-4ce8-9df0-8e33e5376e03">
+					<scoreDef xml:id="m-f316ba4b-aa42-492a-9cdd-d93af0a24c19">
+						<staffGrp xml:id="m-798c52f3-b981-4dcb-83e9-d843de11d41e">
+							<staffDef xml:id="0" key.sig="1f" n="1" lines="5" clef.shape="G" clef.line="2.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-b9ae04bd-fabb-441b-81d1-f1822600231b">
+						<staff xml:id="m-0ce05860-31ee-4d3d-afe7-7496dee89795" n="1">
+							<layer xml:id="m-f36e7ca4-27ba-4938-bf64-500f8bcc50e3" n="1">
+								<note xml:id="m-ab120c73-2365-4f41-8abd-e67a46f293d6" dur="minima" oct="5.0" oct.ges="5.0" pname="d" />
+								<note xml:id="m-ab83444e-3c11-431b-ab26-59d4c0d7d1e4" dur="minima" oct="5.0" oct.ges="5.0" pname="d" />
+								<dot xml:id="m-1e9b27b1-e859-476c-b001-d9a85e27974e" />
+								<note xml:id="m-9eed20a2-5be9-482d-8217-63d8ce999888" dur="semiminima" oct="5.0" oct.ges="5.0" pname="c" />
+								<note xml:id="m-75b3749c-156b-4376-9c6a-017f468aa8b8" dur="minima" oct="5.0" oct.ges="5.0" pname="e" />
+								<note xml:id="m-b8ad7609-e18b-4f4c-9fa6-dd8afcd160e1" dur="minima" oct="5.0" oct.ges="5.0" pname="d" />
+								<note xml:id="m-e89036c8-e013-41d6-b59e-212f6735c1ae" dur="semibrevis" oct="5.0" oct.ges="5.0" pname="c" />
+								<note xml:id="m-729a3439-7c01-4132-af3e-78daeae8bfcf" dur="minima" oct="4.0" oct.ges="4.0" pname="b" />
+								<custos xml:id="m-a380e867-1099-40f8-8831-7c6540c7f6ae" />
+								<custos xml:id="m-4869e51e-e292-41be-a6c1-3127b407c333" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

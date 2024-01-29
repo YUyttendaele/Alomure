@@ -1,0 +1,38 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,c clef,7,240,257
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,Imin,,255,270
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,2,,262,281
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve rest,,280,292
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,6,291,308
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,6,307,324
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,5,323,342
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,colored semibreve,4,341,357
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,5,355,368
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,6,365,378
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,7,374,387
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,6,386,400
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,7,397,410
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,8,408,424
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,9,421,434
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,8,434,446
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,7,445,458
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,6,455,468
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,5,465,479
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,4,478,492
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,5,489,503
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,6,501,512
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,point,,511,518
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,7,514,529
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,5,529,544
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,5,546,561
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,4,561,577
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,5,575,590
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,6,589,602
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,7,601,613
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,8,611,623
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,9,621,633
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,minim,7,630,643
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,8,641,652
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semiminim,9,650,662
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,semibreve,8,659,673
+./Ground_with_df/IDEM/B-Br-ms-228/132_133_65r_7760_10328/132_133_65r_7760_10328_0.jpeg,custos,,666,686

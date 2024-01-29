@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-373943bb-771a-4897-a15a-5a3b27c7203c" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-6166c6a0-4489-40d5-ad8c-cf388037aa26">
+		<fileDesc xml:id="m-3656d352-c9d0-453f-8462-7a78eece9109" />
+	</meiHead>
+	<music xml:id="m-47662971-f664-450b-9d70-77f64a0b6cd7">
+		<body xml:id="m-387a18ab-7e40-4c29-86e8-1966f8549432">
+			<mdiv xml:id="m-4f69afb1-9309-4953-851e-97b770dad4f7">
+				<score xml:id="m-2e0173d9-2823-45f2-a8cc-9e72e1cd0e3e">
+					<scoreDef xml:id="m-3b37b09a-917c-4a71-8db0-9ce20a4c0431">
+						<staffGrp xml:id="m-aabe2979-6a1c-4c4c-9d4a-2eb836fc7b40">
+							<staffDef xml:id="6" key.sig="0f" n="1" lines="5" clef.shape="F" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-e18c6e72-bf90-419b-ace4-4513aac9769f">
+						<staff xml:id="m-53b5b067-fb84-4cc8-921c-47962b235e49" n="1">
+							<layer xml:id="m-6bcf4a32-e9b9-40e7-ad95-749a845aaddc" n="1">
+								<rest xml:id="m-0269fdd5-fd00-472e-b0c9-b5dd3df724d5" dur="minima" />
+								<note xml:id="m-db4738ed-d1f7-4a79-8ee0-5cfbde8dea42" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-28a96d5b-30c5-4d22-b20f-dc81d334dcb2" dur="minima" oct="3.0" oct.ges="3.0" pname="a" />
+								<note xml:id="m-1820dd23-2e79-4156-8921-26d7cb373cb5" dur="minima" oct="3.0" oct.ges="3.0" pname="b" />
+								<note xml:id="m-9c1ed46c-9526-4a7e-ad0d-bf5f49fa2e88" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-c4ecd78c-ff4b-4965-ab51-622d85ab3c90" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-dac0f068-54a3-40bd-873f-a137e192bd8b" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-d5015fa2-579c-4c3d-80ed-16a6ecaaa412" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<custos xml:id="m-e969bcbd-09be-4284-862c-5c9903c2bb00" />
+								<custos xml:id="m-a6e2413e-1e6d-4545-b3b7-c6ba86427597" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

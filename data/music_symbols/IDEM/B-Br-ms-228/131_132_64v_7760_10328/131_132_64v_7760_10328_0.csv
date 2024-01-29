@@ -1,0 +1,32 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,c clef,11,436,456
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,Imin,,455,477
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,2,,471,491
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve rest,,491,504
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,0,504,512
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,9,512,523
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,8,524,541
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,7,543,560
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,6,560,579
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim rest,,579,592
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,6,594,609
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,6,611,628
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,5,627,644
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,longa,13,635,648
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,breve,13,648,661
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,4,644,659
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,point,,654,665
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semiminim,5,663,677
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semiminim,6,674,688
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semiminim,7,687,702
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,6,703,721
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,7,721,737
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,8,736,750
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,point,,745,757
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semiminim,7,754,769
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,9,765,784
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve rest,,787,799
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,5,802,819
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,minim,4,819,836
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,semibreve,5,836,852
+./Ground_with_df/IDEM/B-Br-ms-228/131_132_64v_7760_10328/131_132_64v_7760_10328_0.jpeg,custos,,852,872

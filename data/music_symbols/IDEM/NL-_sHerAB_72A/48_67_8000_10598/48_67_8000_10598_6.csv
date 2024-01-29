@@ -1,0 +1,29 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,f clef,7,125,160
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,flat,4,156,174
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,flat,11,158,178
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,10,193,215
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,10,218,240
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,7,241,265
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,7,267,289
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,9,287,314
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,10,314,339
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,6,339,366
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,6,370,394
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,6,395,418
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,9,420,443
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,point,,435,450
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semiminim,8,450,472
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,7,473,497
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,11,497,519
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,7,522,546
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,6,541,565
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,9,576,599
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,point,,597,607
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semiminim,8,609,631
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,7,634,658
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,minim,9,661,687
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,semibreve,10,690,720
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,breve,7,722,752
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,breve rest,,757,771
+./Ground_with_df/IDEM/NL-_sHerAB_72A/48_67_8000_10598/48_67_8000_10598_6.jpeg,custos,,776,808

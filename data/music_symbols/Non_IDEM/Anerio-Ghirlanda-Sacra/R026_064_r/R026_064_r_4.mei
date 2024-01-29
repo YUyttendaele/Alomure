@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-f34be689-4478-45e5-a5ca-851787062fc8" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-0f80753c-dafc-4a0c-8feb-dd7e9e6a3479">
+		<fileDesc xml:id="m-6cd24dd7-8478-4ea2-a077-9165f47a46ec" />
+	</meiHead>
+	<music xml:id="m-1050658c-6957-4f4c-88f0-dcbc7ac91a02">
+		<body xml:id="m-fa4dc754-abf9-483d-977f-73dc5481bafe">
+			<mdiv xml:id="m-89a0b84c-d55c-4549-9ab4-5a6d2284d47f">
+				<score xml:id="m-769abc78-30ae-4ebf-95ab-566d4a9462ec">
+					<scoreDef xml:id="m-5c2f11e4-03ea-4f7e-bcac-680136b68f07">
+						<staffGrp xml:id="m-a6d677fe-2ed6-4cae-bff6-9fc46c986f7c">
+							<staffDef xml:id="r" key.sig="1f" n="1" lines="5" clef.shape="C" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-f6515062-40b2-4ed5-999e-c4aee9c26db8">
+						<staff xml:id="m-15b4b579-c2d6-48be-906e-f122b3a0153c" n="1">
+							<layer xml:id="m-b8e47998-d6aa-4fa9-b39c-45b1be505949" n="1">
+								<note xml:id="m-f2cdc132-32df-4583-ad91-fef2469507f1" dur="minima" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-cacf80e5-eea3-49c4-a851-2f45e077600d" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="g" />
+								<dot xml:id="m-9417ade7-c7d8-4d0f-a67b-1e1d730e1394" />
+								<note xml:id="m-5e09b87a-a75a-4bdc-aa48-d0b79022e50a" dur="minima" oct="4.0" oct.ges="4.0" pname="g" />
+								<note xml:id="m-5e09b87a-a75a-4bdc-aa48-d0b79022e50a" dur="minima" oct="4.0" oct.ges="4.0" pname="g" />
+								<note xml:id="m-09554f86-f49e-4217-b67e-ec9c86ad7313" dur="minima" oct="4.0" oct.ges="4.0" pname="f" accid="sharp" />
+								<note xml:id="m-1e7d611f-b0f7-4cbe-b630-539f26d4528e" dur="minima" oct="4.0" oct.ges="4.0" pname="g" />
+								<note xml:id="m-e260af0b-580b-4fbe-b43d-b23f0576ffc2" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="a" />
+								<note xml:id="m-fa94fa72-a25e-4413-9454-e51bcce92a25" dur="brevis" oct="4.0" oct.ges="4.0" pname="g" />
+								<barLine xml:id="m-96c24b75-2e04-4a2b-bfb1-926c7f35c274" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

@@ -1,0 +1,24 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,c clef,5,367,385
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,flat,8,383,402
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,longa,10,396,420
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,8,422,443
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,8,443,462
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,minim,11,462,479
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,8,479,497
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,minim,9,496,515
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,breve,10,516,542
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve rest,,552,566
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,breve,3,562,583
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,3,584,604
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,5,601,618
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,7,618,635
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,point,,628,643
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,minim,6,640,660
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,4,660,679
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,point,,673,688
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semiminim,5,684,698
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semiminim,6,697,713
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,semibreve,5,716,737
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,fermata,,732,770
+./Ground_with_df/IDEM/Leuven_Chansonnier/leuven-chansonnier_110_49v/leuven-chansonnier_110_49v_4.jpeg,longa,4,738,763

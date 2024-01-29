@@ -1,0 +1,44 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,c clef,5,167,182
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,flat,5,178,190
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,5,187,211
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,7,214,234
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,233,250
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,9,247,263
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,10,264,283
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,longa,11,283,304
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve rest,,301,317
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,4,313,331
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,5,326,342
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,6,339,356
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,8,355,377
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,7,373,391
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,388,408
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,6,404,424
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,5,422,439
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,7,435,455
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,8,451,476
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,6,464,480
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,7,480,496
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,9,496,513
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,507,519
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,point,,513,528
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,minim,10,523,538
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,minim,10,535,552
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,minim,11,549,566
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,minim,11,550,565
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,longa,9,564,579
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve rest,,573,586
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,585,601
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,7,599,616
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,9,613,630
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,628,644
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,11,639,657
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,10,656,674
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,longa,11,675,692
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve rest,,687,704
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,12,699,718
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,breve,9,715,732
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,729,743
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,semibreve,8,738,754
+./Ground_with_df/NON_IDEM/Copenhagen_Chansonnier/Copenhagen_10/Copenhagen_10_1.jpeg,custos,,757,780

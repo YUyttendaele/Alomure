@@ -1,0 +1,23 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,c clef,5,512,528
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,Pmin,,525,554
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semibreve,10,553,574
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semibreve,10,574,595
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semibreve,9,594,616
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,breve,10,614,637
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,11,637,654
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,8,654,672
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,7,671,689
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semibreve,5,689,707
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semiminim,6,706,722
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semiminim,7,722,738
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,6,741,757
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,point,,747,761
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semiminim,5,759,776
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,4,776,793
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,3,792,807
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,point,,800,815
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semiminim,4,810,828
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,semibreve,5,826,844
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,minim,6,842,861
+./Ground_with_df/IDEM/B-Br_MSIV.922/57_058_28v_6988_8533/57_058_28v_6988_8533_4.jpeg,custos,,862,883

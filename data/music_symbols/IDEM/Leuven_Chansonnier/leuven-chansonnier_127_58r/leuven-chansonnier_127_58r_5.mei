@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-fe02fac7-d6cc-4339-b179-ee68fc03d062" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-776b9f66-9a21-4b61-b41e-42e7e7a7b2d6">
+		<fileDesc xml:id="m-8bd922aa-c8b8-44d0-a706-5cf5b7f695c3" />
+	</meiHead>
+	<music xml:id="m-d217106a-ea20-45d6-be14-9aaf1140fd7a">
+		<body xml:id="m-2bdeb9e7-1e6d-48fc-977a-881fbc945a05">
+			<mdiv xml:id="m-2be71b58-85a3-464d-b087-decc77fd9f70">
+				<score xml:id="m-d680b7d6-a934-4660-9287-2bc9869faa11">
+					<scoreDef xml:id="m-c00567fb-f400-4cd4-8afe-79619d40c133">
+						<staffGrp xml:id="m-bfcc6c22-769d-42c8-b90f-ce94742da29f">
+							<staffDef xml:id="r" key.sig="1f" n="1" lines="5" clef.shape="F" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-bfa94dc0-2a9d-41b2-9fd1-f4d1b493f7ef">
+						<staff xml:id="m-de90e2e6-1cad-48dc-a36d-25534ae9d97d" n="1">
+							<layer xml:id="m-6ef5796f-6cb1-4d3d-aaa3-96e7d9979b4e" n="1">
+								<note xml:id="m-c6f0ff7d-46f1-4329-9edf-aaad4bbf4345" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-130240ac-46a7-407b-93fb-182297d7e224" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-f88f099b-7c9e-4feb-ace1-4b513c8df081" dur="brevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<rest xml:id="m-762fb886-a239-4b0e-a575-4c6fbbe704f4" dur="semibrevis" />
+								<note xml:id="m-86beef2a-526b-4603-9e5a-5ccd7bb0d944" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-1ea899ec-2c82-4a5b-8a57-5f1814eef642" dur="brevis" oct="3.0" oct.ges="3.0" pname="c" />
+								<dot xml:id="m-22c5288f-a1d6-456f-9c08-fd0a6a70505a" />
+								<note xml:id="m-5283c751-a1f3-4693-9026-45c265f81926" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-050e417e-bd26-4b74-8967-b7ba62da9a0d" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-b084ab53-37aa-4c54-8eb2-a57c1f7ffbd2" dur="semibrevis" fermata="above" oct="3.0" oct.ges="3.0" pname="c" />
+								<fermata xml:id="m-4798acb3-f741-481e-b46f-22c89ab464df" />
+								<dot xml:id="m-4061dd96-3584-40e0-bbd1-3d1f5d2e1e07" />
+								<custos xml:id="m-6ee2c277-e3ce-4170-a8aa-64fe61ad99a5" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

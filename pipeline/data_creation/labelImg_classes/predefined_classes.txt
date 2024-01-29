@@ -1,0 +1,63 @@
+maxima
+colored maxima
+longa
+colored longa
+breve
+colored breve
+semibreve
+colored semibreve
+minim
+semiminim
+fusa
+semifusa
+l1_longa
+l2_longa
+l1_colored longa
+l2_colored longa        
+l1_breve   
+l2_breve
+l1_colored breve
+l2_colored breve    
+l1_semibreve
+l2_semibreve
+l1_colored semibreve
+l2_colored semibreve
+o1_longa
+o1_colored longa
+o2_longa
+o2_colored longa          
+o1_breve
+o1_colored breve
+o2_breve
+o2_colored breve
+o1_semibreve
+o1_colored semibreve
+o2_semibreve
+o2_colored semibreve     
+maxima rest
+longa rest
+breve rest
+semibreve rest
+minim rest
+fusa rest
+semifusa rest
+imaj
+pmaj
+imin
+pmin        
+imincut
+pmincut
+3
+2
+1
+c clef
+f clef
+g clef
+flat
+sharp
+dot
+barline
+fermata
+repeat
+congruence
+custos

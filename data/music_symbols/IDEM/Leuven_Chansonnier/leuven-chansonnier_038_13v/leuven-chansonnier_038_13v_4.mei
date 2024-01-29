@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-4f3117fc-6173-45dd-8a93-098b319f735d" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-d30372d0-b99c-4cb2-9ab3-b6c0bdcd7b8b">
+		<fileDesc xml:id="m-11d3324e-87e1-4155-ae26-0dfaa3fc9884" />
+	</meiHead>
+	<music xml:id="m-a6ee9e5a-ab3d-4833-81fe-6e46d7426cea">
+		<body xml:id="m-84f38087-37ac-4be7-8d08-43e6fecd41c7">
+			<mdiv xml:id="m-0db7f77b-3da9-4cf1-8d98-e5ff191ecefc">
+				<score xml:id="m-c1f72aaa-372f-43fe-8a65-af093f8a044c">
+					<scoreDef xml:id="m-49e1a433-551b-4ad4-b66d-fa2857a3bb9f">
+						<staffGrp xml:id="m-67abd794-9e48-4e1c-9b8d-9e8bb4541dfe">
+							<staffDef xml:id="v" key.sig="0f" n="1" lines="5" clef.shape="C" clef.line="2.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-ae667abb-544f-4d35-ae7f-09177425a4e4">
+						<staff xml:id="m-2ec18698-2a6f-428f-a1f6-79507096e8f1" n="1">
+							<layer xml:id="m-16e07deb-24e0-4c3e-a524-96453c27ffb8" n="1">
+								<note xml:id="m-30480978-218f-4dea-af3d-10a875ca7a06" dur="minima" oct="4.0" oct.ges="4.0" pname="g" />
+								<dot xml:id="m-c52b7c60-9082-44a9-b6bc-09d812f5a87d" />
+								<note xml:id="m-a19c7cc3-46bc-47fb-875f-844a8694a645" dur="semiminima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-4a9cd363-30cd-4bc4-a27b-981e9eb3995e" dur="semiminima" oct="4.0" oct.ges="4.0" pname="e" />
+								<note xml:id="m-2db216df-74a6-4ff1-bef1-629549c5a1a9" dur="semiminima" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-09b598cf-dc40-4060-af43-82ed604323c3" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-0a6ce7c5-f94a-416a-9963-64641b735d3e" dur="minima" oct="4.0" oct.ges="4.0" pname="c" />
+								<note xml:id="m-b1c4b2e7-6ea3-4d19-bac3-0f3aba0a8100" dur="longa" oct="4.0" oct.ges="4.0" pname="d" />
+								<barLine xml:id="m-c6ffd6ba-7466-4e12-a8d9-c23e3a7aa10f" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

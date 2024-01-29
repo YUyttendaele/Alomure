@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-8bb56cf2-8633-486f-9430-6470384bd108" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-c3b9cd65-734b-49b1-89d3-28f45fa3b833">
+		<fileDesc xml:id="m-2ea52d49-4755-4861-b28d-fa706d5ecc62" />
+	</meiHead>
+	<music xml:id="m-044c4d97-48ac-459c-9a4f-e5ffbc6c2852">
+		<body xml:id="m-d312226b-4f46-4de2-bccc-f77f70e4749a">
+			<mdiv xml:id="m-5e70e7d1-2bd9-427b-ab41-8276fadab937">
+				<score xml:id="m-d915e6ba-9bd2-4c4e-a833-762edf1affc8">
+					<scoreDef xml:id="m-c73592d2-0a16-4008-bff4-aac143322016">
+						<staffGrp xml:id="m-ee1a3806-3901-4e16-9023-ead003d3f5da">
+							<staffDef xml:id="3" key.sig="1f" n="1" lines="5" clef.shape="F" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-10e3ae64-1802-413b-bd13-e182f1e3b01e">
+						<staff xml:id="m-affb50d0-b8dc-4655-9276-8e5ee0bad955" n="1">
+							<layer xml:id="m-83318783-58a8-4041-a69d-75cf448c3ae1" n="1">
+								<note xml:id="m-d3fedbb8-0b19-45d8-a04f-a0e50603b8e0" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="b" />
+								<note xml:id="m-88c02bb7-7190-4080-94e3-cce8cbb7bfc6" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-9e4c6aef-1e2c-4402-8261-c55fff6bf1d7" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-6e5a2ad6-5cdb-4caa-a9fc-73cd2173b3b6" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-67d9dff0-cac9-4aef-903d-3d4d4cafdd1e" dur="minima" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-d0557ac2-6656-4c06-8376-710f96cfe509" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-57e25293-6cd2-431d-9db3-ca0cec269f3e" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-6603aeae-a01a-4563-8811-9c091c0795e6" dur="minima" oct="3.0" oct.ges="3.0" pname="a" />
+								<note xml:id="m-e25adeee-453d-4504-bc75-687eb7ef171c" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-eb745668-bdf9-4b86-a9c5-c76c1b032ba0" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-49a26d1e-0290-48ab-b884-8bb40c2708e8" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<dot xml:id="m-28062dc9-a24e-43f3-b238-2f4b269eab95" />
+								<note xml:id="m-777f6f62-5b91-4c0a-a89f-e0064e24e99b" dur="semiminima" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-ef4d9e6f-8336-46e8-b332-ef62938d18a9" dur="semiminima" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-493c55b1-201b-4a6f-a70e-9592812ac48c" dur="semiminima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-1a55924c-f80e-44ea-b654-0253493d68c1" dur="minima" oct="3.0" oct.ges="3.0" pname="b" />
+								<note xml:id="m-9716c87c-49f4-4294-98a0-ca4faab3a278" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-02cdb4cf-0c1a-41fb-8f55-369b5d0a75ca" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-8c6c6bc9-372e-40f2-b77c-57dbbf6b10e9" dur="minima" oct="3.0" oct.ges="3.0" pname="b" />
+								<note xml:id="m-04ec0b83-294a-4ab0-ad18-693c40648742" dur="brevis" oct="3.0" oct.ges="3.0" pname="a" />
+								<note xml:id="m-f4658fa9-eb35-4c29-8e99-09f6887b5d81" dur="minima" oct="3.0" oct.ges="3.0" pname="b" />
+								<dot xml:id="m-ce8432c6-3e72-4309-aa44-11b033a24e69" />
+								<note xml:id="m-a9abfa0b-a522-4c3f-bd34-ba656c02db85" dur="semiminima" oct="3.0" oct.ges="3.0" pname="a" />
+								<note xml:id="m-827728b4-0e16-4216-876b-cb390c535b77" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-827728b4-0e16-4216-876b-cb390c535b77" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-c472afb0-eb82-441b-9cfe-7774490b4a83" dur="longa" oct="3.0" oct.ges="3.0" pname="b" accid="sharp" />
+								<barLine xml:id="m-6e5e6952-6f2e-43bc-9336-de6c3b7db170" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

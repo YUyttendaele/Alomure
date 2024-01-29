@@ -1,0 +1,19 @@
+image_id,label,pos,xmin,xmax
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,flat,7,403,422
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim rest,,430,443
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semibreve,5,447,465
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,6,467,483
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,5,486,503
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,5,512,526
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,3,529,546
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semiminim,4,546,561
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semiminim,5,564,578
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semibreve,6,578,595
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,8,592,608
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,7,611,626
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,6,630,644
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semibreve,8,648,665
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,minim,9,664,682
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,fermata,,686,716
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,semibreve,8,692,712
+./Ground_with_df/IDEM/test_book/leuven-chansonnier_034_11v/leuven-chansonnier_034_11v_2.jpeg,custos,,726,752

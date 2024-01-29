@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-cab038b2-f767-45df-8bf0-13d35e44b8eb" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-cd5c9125-1792-4bb8-9f68-511e150296d6">
+		<fileDesc xml:id="m-e5b41c04-2358-4843-bf5e-835120577c56" />
+	</meiHead>
+	<music xml:id="m-1dbac7d0-83bd-42fd-a7b6-42459275ec24">
+		<body xml:id="m-7793a48e-9ef1-4a24-b918-b821c2caa97e">
+			<mdiv xml:id="m-8b138307-39e8-47da-abe9-ff1f182d38bd">
+				<score xml:id="m-97ba0129-8679-477a-8262-e3fff45108bf">
+					<scoreDef xml:id="m-afcc70e1-f80a-4c0d-a569-a6b5e3938a75">
+						<staffGrp xml:id="m-31cd4b53-5e63-4429-aca9-18e0422b8000">
+							<staffDef xml:id="4" key.sig="1f" n="1" lines="5" clef.shape="F" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-c2de18ad-1e1a-4f9e-9f95-d47f6fc4e9c3">
+						<staff xml:id="m-f4c7bb75-1181-4bbe-b275-f2081a7820da" n="1">
+							<layer xml:id="m-6dbbc673-49bd-41c9-a8aa-e6a089031db1" n="1">
+								<note xml:id="m-6e305847-ad70-43df-b9a6-0565482f39e4" dur="minima" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-df4b3cd8-cc4b-466e-af18-1b70ce501d13" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-9b3a1500-29b0-49ce-97a4-a081d9cf394b" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-1fe347be-4278-4d66-a3d6-3f00223f12da" dur="semiminima" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-709de95d-0ff0-491a-bbf0-567c65760b6f" dur="semiminima" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-3ee15e1f-8e7d-4882-9017-a00bd326c719" dur="minima" oct="3.0" oct.ges="3.0" pname="g" />
+								<dot xml:id="m-50e83940-5dab-4161-87a0-8d84c93c3b68" />
+								<note xml:id="m-2b166b60-f1ab-41a1-b092-40f4192d2a02" dur="fusa" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-f5342e42-adf4-47dd-9f48-7777669a9737" dur="fusa" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-d9364e0f-7464-41e1-aa18-fe41e4a2d443" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<note xml:id="m-74ce95d2-5798-4afc-b7da-5a0335f8d118" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<note xml:id="m-aa3d29ab-4324-4402-85b6-7e739be75320" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-d3886045-fc75-44ad-9cab-f09ed48fd2ce" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-716eba6d-e629-48b9-bfe6-477a99f33613" dur="minima" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-9673887e-e22a-43b9-894d-b640e6a35bd1" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<note xml:id="m-4075ad42-95a4-4c4f-899b-bbe46d55f095" dur="minima" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-44af79f4-0b07-4f88-9f6e-f942bc59d1ce" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-81f614a7-a57a-4805-ac49-d46d033e0c6b" dur="semibrevis" oct="3.0" oct.ges="3.0" pname="g" />
+								<rest xml:id="m-0d67fe61-5da4-4574-88fd-96ca0c9d3db1" dur="brevis" />
+								<rest xml:id="m-8ee07987-e0f9-40a1-a857-a207d07b6945" dur="semibrevis" />
+								<rest xml:id="m-326ef087-478e-4f5f-a6a9-2aa674aa3a4a" dur="minima" />
+								<note xml:id="m-cffcaaa6-5a3e-4c66-b54f-1b2ae1edfa58" dur="minima" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-72ec4917-4ac0-4b2e-a856-35028687b480" dur="minima" oct="3.0" oct.ges="3.0" pname="f" />
+								<dot xml:id="m-edf90d5a-fa88-47d8-a06a-cb4fcac71a11" />
+								<note xml:id="m-4db2c94b-b1d6-40a8-a10c-4d95141a02ef" dur="semiminima" oct="3.0" oct.ges="3.0" pname="e" />
+								<note xml:id="m-72e21ead-1f7f-4581-a6c5-9a685d465e3a" dur="minima" oct="3.0" oct.ges="3.0" pname="d" />
+								<note xml:id="m-24bd1e47-91ff-4bb1-912b-6ea3e60b6aa2" dur="minima" oct="3.0" oct.ges="3.0" pname="c" />
+								<custos xml:id="m-61ec5d9e-a93d-4243-950c-fe8448bdd03a" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

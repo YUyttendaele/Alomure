@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-57bae05c-7a63-41c4-b688-f1239dbc01bb" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-cd8b4a9b-8ca3-4d84-9b6b-f6fc20a321d9">
+		<fileDesc xml:id="m-668e92e5-96d4-456e-86be-b4fc35ef1e22" />
+	</meiHead>
+	<music xml:id="m-6526a0b6-b6b2-4d9c-93b6-1fe37ee25497">
+		<body xml:id="m-df242e64-cedf-43e6-96b0-2cb125ca99a0">
+			<mdiv xml:id="m-1356dafe-d867-4209-aca4-41ba6d815082">
+				<score xml:id="m-0f514473-e318-4a81-99f1-c87ccf6b388f">
+					<scoreDef xml:id="m-bf6462c2-89b4-4297-9420-4b6018d89633">
+						<staffGrp xml:id="m-b9aa0c59-053f-4fc8-875f-2999bfbf7feb">
+							<staffDef xml:id="8" key.sig="0f" n="1" lines="5" clef.shape="C" clef.line="4.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-b1bab6ab-35a1-4d18-acdd-51d810431bea">
+						<staff xml:id="m-260c91cd-9abb-4f77-8ad8-68b7319e7dc6" n="1">
+							<layer xml:id="m-551829e1-82be-4441-889d-c6f5f4d9d8c2" n="1">
+								<note xml:id="m-e59a7e18-3e09-433c-af1b-4e5ba231c737" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-fa486636-494c-423e-95bf-882baf6d0ae2" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-e8826bf4-a647-4608-94b2-bfe232fda41e" dur="minima" oct="4.0" oct.ges="4.0" pname="e" />
+								<note xml:id="m-4f570e4b-109f-4c03-96ab-f21d815809a7" dur="minima" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-a09c43d1-d76c-4b45-8a79-60d18acc601a" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="e" />
+								<note xml:id="m-6739f344-9692-403f-8aca-23ad9eb9ff39" dur="longa" oct="4.0" oct.ges="4.0" pname="d" />
+								<barLine xml:id="m-2780388c-c704-4015-a648-16e256b5d271" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

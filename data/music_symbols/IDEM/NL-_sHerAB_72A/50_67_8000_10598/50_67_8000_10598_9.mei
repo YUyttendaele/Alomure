@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-839a3327-cd19-4862-a071-d78c9f0daba8" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-20a91227-b58f-4c78-b1ed-81067924c489">
+		<fileDesc xml:id="m-ca1150b3-97b3-4a50-853f-d327b2e0e2ff" />
+	</meiHead>
+	<music xml:id="m-6424b9b9-c81e-4080-b5dc-567ec1c352d9">
+		<body xml:id="m-c8c1f296-7174-4206-a6e1-9d051810144d">
+			<mdiv xml:id="m-955f540f-8aaf-4fc2-978e-0c46358b18c8">
+				<score xml:id="m-fa26a185-9be7-4a1f-ae9f-4b0954a26786">
+					<scoreDef xml:id="m-ace8cd5f-9fab-43f7-acd3-d66a849d3770">
+						<staffGrp xml:id="m-87469396-3a60-4370-865e-7f9c7fd08d99">
+							<staffDef xml:id="8" key.sig="1f" n="1" lines="5" clef.shape="C" clef.line="3.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-90488c08-557e-4bc6-b572-eb9495098fc0">
+						<staff xml:id="m-965dfe99-991d-4d55-8e27-d0854461072c" n="1">
+							<layer xml:id="m-cd61c9aa-8334-4e14-ac56-3506b7fce820" n="1">
+								<note xml:id="m-389b0be9-4d18-4ac9-8853-e84edcd7fc56" dur="minima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-364cbf12-13fe-414e-8470-92eb94b93ba4" dur="minima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-f0f86e2d-2bd8-4c02-8704-2adf610332d4" dur="minima" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-1acc4dfa-fc7c-46ed-a919-d6a48eea65e4" dur="minima" oct="4.0" oct.ges="4.0" pname="b" />
+								<note xml:id="m-d7e2cba9-5f0e-4901-8958-820ba19c6367" dur="minima" oct="4.0" oct.ges="4.0" pname="f" />
+								<dot xml:id="m-7b1da02d-56bf-4940-bfdc-032095299f0b" />
+								<note xml:id="m-3b9d29a4-643f-497d-969a-92f91504de5f" dur="semiminima" oct="4.0" oct.ges="4.0" pname="e" />
+								<note xml:id="m-d4766c21-25c2-4128-b7eb-02d890936987" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-03b2b513-6257-4997-bfd7-7ea95c68b756" dur="longa" oct="4.0" oct.ges="4.0" pname="c" />
+								<barLine xml:id="m-057cba28-3c59-4e62-86e9-fb5142d6e1b7" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

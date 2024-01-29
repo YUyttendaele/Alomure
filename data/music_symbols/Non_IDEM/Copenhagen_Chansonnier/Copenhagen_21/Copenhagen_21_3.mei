@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-a17710cd-c9a7-46d0-b120-289b614a4a2b" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-a06b0e56-e9c8-41a8-9c21-fddea4340bf4">
+		<fileDesc xml:id="m-21c36f35-9fd7-4d05-83c7-13e6bace93be" />
+	</meiHead>
+	<music xml:id="m-85b883e6-7877-4325-a946-a51c0f699fd1">
+		<body xml:id="m-60d9e877-088c-4930-9728-445c67fec6d0">
+			<mdiv xml:id="m-23c8f1ed-c87a-406e-ae57-c5bef66088f4">
+				<score xml:id="m-71e33df2-d6e8-46f5-90a8-ac0b22de9150">
+					<scoreDef xml:id="m-1a5d037e-0ed6-4f52-83a7-649c1e4411d0">
+						<staffGrp xml:id="m-799f85e2-9b26-4730-bfe4-9a46126af86f">
+							<staffDef xml:id="1" key.sig="0f" n="1" lines="5" clef.shape="C" clef.line="1.0" notationtype="mensural" />
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-3d144e6b-34c6-401f-ba10-da372dc764d0">
+						<staff xml:id="m-bb26cf9d-0fbd-4e83-8650-050a65da29f3" n="1">
+							<layer xml:id="m-3dcf62d7-9fc0-4c98-97d5-75db512a4e46" n="1">
+								<note xml:id="m-a972eb77-249c-4ad9-8cf9-cdc770ce71fc" dur="minima" oct="4.0" oct.ges="4.0" pname="g" />
+								<note xml:id="m-e39170f3-aca4-4a0c-847c-2d0ad817a2dd" dur="minima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-d05e8f3f-b6ee-46ef-b809-9529ebf3d761" dur="semibrevis" oct="4.0" oct.ges="4.0" pname="a" />
+								<note xml:id="m-800ac51d-9621-4eb3-bdc9-1f4d529ecdcd" dur="semiminima" oct="4.0" oct.ges="4.0" pname="g" />
+								<note xml:id="m-168ea769-8594-4322-acae-ea51930f7639" dur="semiminima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-bd48dd3d-09a4-4fb4-b673-6d5a44bdf2f5" dur="minima" oct="4.0" oct.ges="4.0" pname="f" />
+								<note xml:id="m-fb17dbe9-9678-49e9-812f-0769129a7151" dur="minima" oct="4.0" oct.ges="4.0" pname="d" />
+								<note xml:id="m-8070838b-cd5e-4b7d-8401-beb960de31d9" dur="longa" oct="4.0" oct.ges="4.0" pname="f" />
+								<barLine xml:id="m-32b4f0b0-4209-4f10-8ca9-a25be31a359a" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>
